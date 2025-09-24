@@ -6,6 +6,8 @@
 
 **Contact:** For more information, contact Kimball Johnston (<kjohn313@asu.edu>) 
 
+To join our mailing list, fill out the survey at <https://docs.google.com/forms/d/e/1FAIpQLScVZFp_pBNKXJvJR-qANwXHyOC1m0T0Sm8gC-wkERLIZ5JSTQ/viewform?usp=dialog>. 
+
 ## Schedule 
 
 | Date | Presenter | Paper | Additional resources |
@@ -14,7 +16,12 @@
 | 9/3/2025 | Jimmie Adriazola | [Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481) | [notes](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/9_3_2025/AMPD_UP_FNOs.pdf), [code](https://github.com/neuraloperator/neuraloperator)  | 
 | 9/10/2025 | Kimball Johnston | [A mean-field games laboratory for generative modeling](https://arxiv.org/abs/2304.13534) | [notes](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/9_10_2025/9_10_2025_Notes.pdf) |
 | 9/17/2025 | Break | None | None |
-| 9/24/2025 | Sébastien Motsch | [The $25,000,000,000 Eigenvector: The Linear Algebra behind Google](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf) | TBA |
+| 9/24/2025 | Sébastien Motsch | [The $25,000,000,000 Eigenvector: The Linear Algebra behind Google](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf) | [code](https://colab.research.google.com/drive/1MC4moEJUKMwmUY7cJc-ttkEkx95HI6PR?usp=sharing),  [notes](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/9_24_2025/9_24_2025_notes.pdf) |
 | 10/1/2025 | Brandon Burkhardt | TBA | TBA | 
+| 10/8/2025 | Break | None | None | 
+| 10/15/2025 | TBA | TBA | TBA | 
+| 10/22/2025 | TBA | TBA | TBA | 
+| 10/29/2025 | Break | TBA | TBA | 
+| 11/5/2025 | Sohyeon Jung | TBA | TBA |
 
 For a list of papers suggested for the club to cover, visit <https://hackmd.io/@Kx_iyveCTci_IuvfFQDNog/SkCwcxduxl>.
