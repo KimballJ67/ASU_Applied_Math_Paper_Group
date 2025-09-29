@@ -17,9 +17,9 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 9/10/2025 | Kimball Johnston | [A mean-field games laboratory for generative modeling](https://arxiv.org/abs/2304.13534) | [notes](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/9_10_2025/9_10_2025_Notes.pdf) |
 | 9/17/2025 | Break | None | None |
 | 9/24/2025 | Sébastien Motsch | [The $25,000,000,000 Eigenvector: The Linear Algebra behind Google](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf) | [code](https://colab.research.google.com/drive/1MC4moEJUKMwmUY7cJc-ttkEkx95HI6PR?usp=sharing),  [notes](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/9_24_2025/9_24_2025_notes.pdf) |
-| 10/1/2025 | Brandon Burkhardt | TBA | TBA | 
+| 10/1/2025 | Brandon Burkhardt | [Computational methods for large-scale inverse problems: a survey on hybrid projection methods](https://arxiv.org/abs/2105.07221) | TBA | 
 | 10/8/2025 | Break | None | None | 
-| 10/15/2025 | TBA | TBA | TBA | 
+| 10/15/2025 | Ashley Harrison | TBA | TBA | 
 | 10/22/2025 | TBA | TBA | TBA | 
 | 10/29/2025 | Break | TBA | TBA | 
 | 11/5/2025 | Sohyeon Jung | TBA | TBA |
