@@ -20,8 +20,12 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 10/1/2025 | Brandon Burkhardt | [Computational methods for large-scale inverse problems: a survey on hybrid projection methods](https://arxiv.org/abs/2105.07221) | TBA | 
 | 10/8/2025 | Break | None | None | 
 | 10/15/2025 | Ashley Harrison | TBA | TBA | 
-| 10/22/2025 | TBA | TBA | TBA | 
+| 10/22/2025 | Jack Ramina | TBA | TBA | 
 | 10/29/2025 | Break | TBA | TBA | 
 | 11/5/2025 | Sohyeon Jung | TBA | TBA |
+| 11/12/2025 | TBA | TBA | TBA | 
+| 11/19/2025 | TBA or break | TBA | TBA | 
+| 11/26/2025 | Thanksgiving | None | None |
+| 12/3/2025 | TBA | TBA | TBA |
 
 For a list of papers suggested for the club to cover, visit <https://hackmd.io/@Kx_iyveCTci_IuvfFQDNog/SkCwcxduxl>.
