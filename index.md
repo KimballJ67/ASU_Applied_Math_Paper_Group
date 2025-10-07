@@ -23,9 +23,9 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 10/22/2025 | Jack Ramina | TBA | TBA | 
 | 10/29/2025 | Break | TBA | TBA | 
 | 11/5/2025 | Sohyeon Jung | TBA | TBA |
-| 11/12/2025 | TBA | TBA | TBA | 
+| 11/12/2025 | Daniel Tolosa Villarreal | TBA | TBA | 
 | 11/19/2025 | TBA or break | TBA | TBA | 
-| 11/26/2025 | Thanksgiving | None | None |
+| 11/26/2025 | Break (Thanksgiving) | None | None |
 | 12/3/2025 | TBA | TBA | TBA |
 
 For a list of papers suggested for the club to cover, visit <https://hackmd.io/@Kx_iyveCTci_IuvfFQDNog/SkCwcxduxl>.
