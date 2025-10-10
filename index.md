@@ -19,7 +19,7 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 9/24/2025 | Sébastien Motsch | [The $25,000,000,000 Eigenvector: The Linear Algebra behind Google](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf) | [code](https://colab.research.google.com/drive/1MC4moEJUKMwmUY7cJc-ttkEkx95HI6PR?usp=sharing),  [notes](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/9_24_2025/9_24_2025_notes.pdf) |
 | 10/1/2025 | Brandon Burkhardt | [Computational methods for large-scale inverse problems: a survey on hybrid projection methods](https://arxiv.org/abs/2105.07221) | TBA | 
 | 10/8/2025 | Break | None | None | 
-| 10/15/2025 | Ashley Harrison | TBA | TBA | 
+| 10/15/2025 | Ashley Harrison | [Data-informed model reduction for inference and prediction from non-identifiable models](https://www.sciencedirect.com/science/article/pii/S0022519325001213) | TBA | 
 | 10/22/2025 | Jack Ramina | TBA | TBA | 
 | 10/29/2025 | Break | TBA | TBA | 
 | 11/5/2025 | Sohyeon Jung | TBA | TBA |
