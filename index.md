@@ -21,7 +21,7 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 10/8/2025 | Break | None | None | 
 | 10/15/2025 | Ashley Harrison | [Data-informed model reduction for inference and prediction from non-identifiable models](https://www.sciencedirect.com/science/article/pii/S0022519325001213) | [notes]( https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/10_15_2025/Pres_Notes.pdf)| 
 | 10/22/2025 | Jack Ramina | [Computational optimal transport](https://arxiv.org/abs/1803.00567) | TBA | 
-| 10/29/2025 | Break | TBA | TBA | 
+| 10/29/2025 | Break | None | None | 
 | 11/5/2025 | Sohyeon Jung | TBA | TBA |
 | 11/12/2025 | Daniel Tolosa Villarreal | TBA | TBA | 
 | 11/19/2025 | TBA or break | TBA | TBA | 
