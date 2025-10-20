@@ -24,8 +24,8 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 10/29/2025 | Break | None | None | 
 | 11/5/2025 | Sohyeon Jung | TBA | TBA |
 | 11/12/2025 | Daniel Tolosa Villarreal | TBA | TBA | 
-| 11/19/2025 | TBA or break | TBA | TBA | 
+| 11/19/2025 | Jimmie Adriazola | TBA | TBA | 
 | 11/26/2025 | Break (Thanksgiving) | None | None |
-| 12/3/2025 | TBA | TBA | TBA |
+| 12/3/2025 | Kimball Johnston | [A mean-field games laboratory for generative modeling](https://arxiv.org/abs/2304.13534) | TBA |
 
 For a list of papers suggested for the club to cover, visit <https://hackmd.io/@Kx_iyveCTci_IuvfFQDNog/SkCwcxduxl>.
