@@ -23,8 +23,8 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 10/22/2025 | Jack Ramina | [Computational optimal transport](https://arxiv.org/abs/1803.00567) | None | 
 | 10/29/2025 | Break | None | None | 
 | 11/5/2025 | Sohyeon Jung | [Reduced Order Modeling with Shallow Recurrent Decoder Networks](https://arxiv.org/abs/2502.10930) | None |
-| 11/12/2025 | Daniel Tolosa Villarreal | [Persistence paths and signature features in topological data analysis](https://arxiv.org/abs/1806.00381) | TBA | 
-| 11/19/2025 | Jimmie Adriazola | TBA | TBA | 
+| 11/12/2025 | Daniel Tolosa Villarreal | [Persistence paths and signature features in topological data analysis](https://arxiv.org/abs/1806.00381) | None | 
+| 11/19/2025 | Jimmie Adriazola | [Kernel methods are competitive for operator learning](https://www.sciencedirect.com/science/article/pii/S0021999123006447?ref=pdf_download&fr=RR-2&rr=99e7e3a9d8b3c4c4) | TBA | 
 | 11/26/2025 | Break (Thanksgiving) | None | None |
 | 12/3/2025 | Kimball Johnston | [A mean-field games laboratory for generative modeling](https://arxiv.org/abs/2304.13534) | TBA |
 
