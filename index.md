@@ -26,6 +26,6 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 11/12/2025 | Daniel Tolosa Villarreal | [Persistence paths and signature features in topological data analysis](https://arxiv.org/abs/1806.00381) | [notes]( https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/11_12_2025/11_12_2025_talk.pdf) | 
 | 11/19/2025 | Jimmie Adriazola | [Kernel methods are competitive for operator learning](https://www.sciencedirect.com/science/article/pii/S0021999123006447?ref=pdf_download&fr=RR-2&rr=99e7e3a9d8b3c4c4) | [notes]( https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/11_19_2025/Kernel_Learning.pdf) |
 | 11/26/2025 | Break (Thanksgiving) | None | None |
-| 12/3/2025 | Kimball Johnston | [A mean-field games laboratory for generative modeling](https://arxiv.org/abs/2304.13534) | TBA |
+| 12/3/2025 | Kimball Johnston | [A mean-field games laboratory for generative modeling](https://arxiv.org/abs/2304.13534) | [notes]( https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/12_3_2025/AMPD_UP_MFG_2_small.pdf) | 
 
 For a list of papers suggested for the club to cover, visit <https://hackmd.io/@Kx_iyveCTci_IuvfFQDNog/SkCwcxduxl>.
