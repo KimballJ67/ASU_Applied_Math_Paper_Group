@@ -1,6 +1,6 @@
-# AMPD UP: Applied Math Presentations and Discourse for Understanding Papers 
+# AMPD UP
 
-**Description and purpose:** This is a reading group for applied mathematicians at ASU. Each week, a different member of the group presents the results of a recent applied math research paper to the rest of the group. That way, each group member only has to read one or two of the papers covered by the group but gets to learn about all of these papers. In addition to spreading knowledge, this will help students become better researchers and presenters. 
+**Description and purpose:** AMPD UP (Applied Math Presentations and Discourse for Understanding Papers) is a reading group for applied mathematicians at ASU. Each week, a different member of the group presents the results of a recent applied math research paper to the rest of the group. That way, each group member only has to read one or two of the papers covered by the group but gets to learn about all of these papers. In addition to spreading knowledge, this will help students become better researchers and presenters. 
 
 **Meeting time and place:** Wednesdays from 9 to 10 a.m. in WXLR A202 
 
