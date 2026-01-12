@@ -15,6 +15,6 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 1/14/2026 | None | None | None |
 | 1/21/2026 | TBA | TBA | TBA  | 
 
-For a list of past presentations, click [here](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/archive.md).
+For a list of past presentations, click [here](archive.md).
 
 For a list of papers suggested for the club to cover, visit <https://hackmd.io/@Kx_iyveCTci_IuvfFQDNog/SkCwcxduxl>.
