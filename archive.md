@@ -1,3 +1,7 @@
+---
+markdown: GFM
+---
+
 # Past AMPD UP presentations 
 
 | Date | Presenter | Paper | Additional resources |
