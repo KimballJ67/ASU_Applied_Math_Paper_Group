@@ -8,7 +8,8 @@
 
 To join our mailing list, fill out the survey at <https://docs.google.com/forms/d/e/1FAIpQLScVZFp_pBNKXJvJR-qANwXHyOC1m0T0Sm8gC-wkERLIZ5JSTQ/viewform?usp=dialog>. 
 
-## Schedule 
+## Schedule
+
 | Date | Presenter | Paper | Additional resources |
 | --- | --- | --- | --- |
 | 1/14/2026 | None | None | None |
