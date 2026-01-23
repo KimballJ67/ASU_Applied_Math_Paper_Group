@@ -6,7 +6,7 @@ markdown: GFM
 
 | Date | Presenter | Paper | Additional resources |
 | --- | --- | --- | --- |
-| 8/27/2025 | Brandon Burkhardt, Kimball Johnston, and Jimmie Adriazola | Organizational and introductory meeting | [slides](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/8_27_2025/ASU_Journal_Club_Slides.pdf) |
+| 8/27/2025 | Brandon Burkhardt, Kimball Johnston, and Jimmie Adriazola | Organizational and introductory meeting | [slides](8_27_2025/ASU_Journal_Club_Slides.pdf) |
 | 9/3/2025 | Jimmie Adriazola | [Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481) | [notes](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/9_3_2025/AMPD_UP_FNOs.pdf), [code](https://github.com/neuraloperator/neuraloperator)  | 
 | 9/10/2025 | Kimball Johnston | [A mean-field games laboratory for generative modeling](https://arxiv.org/abs/2304.13534) | [notes](https://kimballj67.github.io/ASU_Applied_Math_Paper_Group/9_10_2025/9_10_2025_Notes.pdf) |
 | 9/17/2025 | Break | None | None |

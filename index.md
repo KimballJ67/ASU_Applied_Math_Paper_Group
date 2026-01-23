@@ -15,7 +15,11 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 1/14/2026 | None | None | None |
 | 1/21/2026 | None | None | None  |
 | 1/28/2026 | Kimball Johnston | [Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://arxiv.org/abs/1806.07572) | TBA  | 
-| 2/4/2026 | TBA | TBA | TBA  | 
+| 2/4/2026 | Jimmie Adriazola | TBA | TBA  | 
+| 2/11/2026 | Break | None | None  | 
+| 2/18/2026 | Joan Ponce | TBA | TBA  | 
+| 2/25/2026 | William Meade | TBA | TBA  | 
+| 3/4/2026 | Break | None | None  | 
 
 
 
