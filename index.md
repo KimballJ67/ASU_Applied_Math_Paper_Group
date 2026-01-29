@@ -19,7 +19,7 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 2/11/2026 | Break | None | None  | 
 | 2/18/2026 | Joan Ponce | TBA | TBA  | 
 | 2/25/2026 | William Meade | TBA | TBA  | 
-| 3/4/2026 | TBA | TBA | TBA  | 
+| 3/4/2026 | Vince Campo | TBA | TBA  | 
 | 3/11/2026 | Spring break | None | None  | 
 | 3/18/2026 | Hyunsik Yun | TBA | TBA  | 
 | 3/25/2026 | Anwar Khaddaj | TBA | TBA  | 
