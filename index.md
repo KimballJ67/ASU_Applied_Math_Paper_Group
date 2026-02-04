@@ -17,7 +17,7 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 1/28/2026 | Kimball Johnston | [Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://arxiv.org/abs/1806.07572) | [notes](1_28_2026/NTK_notes_small.pdf), [Jupyter notebook](1_28_2026/NTK_example.ipynb)  | 
 | 2/4/2026 | Jimmie Adriazola | [On lazy training in differentiable programming](https://arxiv.org/abs/1812.07956) | TBA  | 
 | 2/11/2026 | Break | None | None  | 
-| 2/18/2026 | Joan Ponce | TBA | TBA  | 
+| 2/18/2026 | Joan Ponce | [Current state and open problems in universal differential equations for systems biology](https://www.nature.com/articles/s41540-025-00550-w) | [blog](https://www.vizuaranewsletter.com/p/a-simple-machine-learning-model-for)  | 
 | 2/25/2026 | William Meade | TBA | TBA  | 
 | 3/4/2026 | Vince Campo | TBA | TBA  | 
 | 3/11/2026 | Spring break | None | None  | 
