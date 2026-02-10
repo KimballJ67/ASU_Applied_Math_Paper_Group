@@ -26,8 +26,8 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 4/1/2026 | Break | None | None  | 
 | 4/8/2026 | Brandon Burkhardt | TBA | TBA  | 
 | 4/15/2026 | Jack Ramina | TBA | TBA  | 
-| 4/22/2026 | Break | None | None  | 
-| 4/29/2026 | TBA | TBA | TBA  | 
+| 4/22/2026 | Sohyeon Jung | TBA | TBA  | 
+| 4/29/2026 | Break | None | None  | 
 
 For a list of past presentations, click [here](archive.md).
 
