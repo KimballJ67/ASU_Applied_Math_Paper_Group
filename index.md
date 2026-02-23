@@ -18,7 +18,7 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 2/4/2026 | Jimmie Adriazola | [On lazy training in differentiable programming](https://arxiv.org/abs/1812.07956) | [notes](2_4_2026/Lazy_training_note.pdf)  | 
 | 2/11/2026 | Break | None | None  | 
 | 2/18/2026 | Joan Ponce | [Current state and open problems in universal differential equations for systems biology](https://www.nature.com/articles/s41540-025-00550-w) | [blog](https://www.vizuaranewsletter.com/p/a-simple-machine-learning-model-for)  | 
-| 2/25/2026 | William Meade | TBA | TBA  | 
+| 2/25/2026 | William Meade | [A contribution to the mathematical theory of epidemics](https://royalsocietypublishing.org/rspa/article/115/772/700/2165/A-contribution-to-the-mathematical-theory-of) | TBA  | 
 | 3/4/2026 | Vince Campo | TBA | TBA  | 
 | 3/11/2026 | Spring break | None | None  | 
 | 3/18/2026 | Hyunsik Yun | [Reinforcement Learning from Human Feedback](https://rlhfbook.com/) | TBA  | 
