@@ -19,7 +19,7 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 2/11/2026 | Break | None | None  | 
 | 2/18/2026 | Joan Ponce | [Current state and open problems in universal differential equations for systems biology](https://www.nature.com/articles/s41540-025-00550-w) | [blog](https://www.vizuaranewsletter.com/p/a-simple-machine-learning-model-for)  | 
 | 2/25/2026 | William Meade | [A contribution to the mathematical theory of epidemics](https://royalsocietypublishing.org/rspa/article/115/772/700/2165/A-contribution-to-the-mathematical-theory-of) | None  | 
-| 3/4/2026 | Vince Campo | [Solving Mazes: A New Approach Based on Spectral Graph Theory](https://www.mdpi.com/2227-7390/12/15/2305) | None  | 
+| 3/4/2026 | Vince Campo | [Solving Mazes: A New Approach Based on Spectral Graph Theory](https://www.mdpi.com/2227-7390/12/15/2305) | [slides](3_4_2026/Presentation.pdf), [code](3_4_2026/Code_demo.py)  | 
 | 3/11/2026 | Spring break | None | None  | 
 | 3/18/2026 | Hyunsik Yun | [Reinforcement Learning from Human Feedback](https://rlhfbook.com/) | TBA  | 
 | 3/25/2026 | Anwar Khaddaj | TBA | TBA  | 
