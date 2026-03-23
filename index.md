@@ -21,8 +21,8 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 2/25/2026 | William Meade | [A contribution to the mathematical theory of epidemics](https://royalsocietypublishing.org/rspa/article/115/772/700/2165/A-contribution-to-the-mathematical-theory-of) | None  | 
 | 3/4/2026 | Vince Campo | [Solving Mazes: A New Approach Based on Spectral Graph Theory](https://www.mdpi.com/2227-7390/12/15/2305) | [slides](3_4_2026/Presentation.pdf), [code](3_4_2026/Code_demo.py)  | 
 | 3/11/2026 | Spring break | None | None  | 
-| 3/18/2026 | Hyunsik Yun | [Reinforcement Learning from Human Feedback](https://rlhfbook.com/) | TBA  | 
-| 3/25/2026 | Anwar Khaddaj | TBA | TBA  | 
+| 3/18/2026 | Hyunsik Yun | [Reinforcement Learning from Human Feedback](https://rlhfbook.com/) | None  | 
+| 3/25/2026 | Anwar Khaddaj | [Efficient collocational approach for parametric uncertainty analysis](https://global-sci.com/index.php/cicp/article/view/5458) | TBA  | 
 | 4/1/2026 | Break | None | None  | 
 | 4/8/2026 | Brandon Burkhardt | TBA | TBA  | 
 | 4/15/2026 | Jack Ramina | TBA | TBA  | 
