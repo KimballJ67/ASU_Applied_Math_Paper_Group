@@ -26,7 +26,7 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 4/1/2026 | Richard Ashley | [A negative formulation of social attachment guarantees](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [notes](https://www.youtube.com/watch?v=dQw4w9WgXcQ), [code](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  | 
 | 4/8/2026 | Brandon Burkhardt | [We both think you did wrong - How agreement shapes and is shaped by indirect reciprocity](https://www.sciencedirect.com/science/article/abs/pii/S0307904X26001290) | None  | 
 | 4/15/2026 | Jack Ramina | [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101) | [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)  | 
-| 4/22/2026 | Sohyeon Jung | TBA | TBA  | 
+| 4/22/2026 | Sohyeon Jung | [Walrus: A Cross-Domain Foundation Model for Continuum Dynamics](https://arxiv.org/abs/2511.15684) | TBA  | 
 | 4/29/2026 | Break | None | None  | 
 
 For a list of past presentations, click [here](archive.md).
