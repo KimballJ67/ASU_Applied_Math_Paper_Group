@@ -19,3 +19,5 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 For a list of past presentations, click [here](archive.md).
 
 For a list of papers suggested for the club to cover, visit <https://hackmd.io/@Kx_iyveCTci_IuvfFQDNog/SkCwcxduxl>.
+
+To see our code and notes in their GitHub repository, go to <https://github.com/KimballJ67/ASU_Applied_Math_Paper_Group>. 
