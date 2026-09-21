@@ -17,7 +17,9 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 9/8/2026 | Ashley Harrison | [Reducing phenotype-structured partial differential equations models of cancer evolution to systems of ordinary differential equations: a generalised moment dynamics approach](https://link.springer.com/article/10.1007/s00285-025-02246-5) | [notes](9_8_2026/phenotypePDEtoODEnotes.pdf) |
 | 9/15/2026 | Break | None | None |
 | 9/22/2026 | Isiaha Akatlzin Rodriguez | [The Dynamics of Learning: A Random Matrix Approach](https://arxiv.org/abs/1805.11917) | TBA |
-| 9/29/2026 | TBA | TBA | TBA | 
+| 9/29/2026 | William Meade | TBA | TBA | 
+| 10/6/2026 | Break | None | None | 
+| 10/13/2026 | TBA | TBA | TBA | 
 
 For a list of past presentations, click [here](archive.md).
 
