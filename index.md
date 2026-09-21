@@ -19,7 +19,8 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 9/22/2026 | Isiaha Akatlzin Rodriguez | [The Dynamics of Learning: A Random Matrix Approach](https://arxiv.org/abs/1805.11917) | TBA |
 | 9/29/2026 | William Meade | TBA | TBA | 
 | 10/6/2026 | Break | None | None | 
-| 10/13/2026 | TBA | TBA | TBA | 
+| 10/13/2026 | Sohyeon Jung | TBA | TBA | 
+| 10/20/2026 | TBA | TBA | TBA | 
 
 For a list of past presentations, click [here](archive.md).
 
