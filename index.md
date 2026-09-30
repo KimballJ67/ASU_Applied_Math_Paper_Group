@@ -18,9 +18,15 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 9/15/2026 | Break | None | None |
 | 9/22/2026 | Isiaha Akatlzin Rodriguez | [The Dynamics of Learning: A Random Matrix Approach](https://arxiv.org/abs/1805.11917) | TBA |
 | 9/29/2026 | William Meade | [Combination therapy with oncolytic virus and T cells or mRNA vaccine amplifies antitumor effects](https://www.nature.com/articles/s41392-024-01824-1) | [further readings](https://www.sciencedirect.com/science/article/pii/S0025556425001579) | 
-| 10/6/2026 | Break | None | None | 
-| 10/13/2026 | Sohyeon Jung | TBA | TBA | 
-| 10/20/2026 | TBA | TBA | TBA | 
+| 10/6/2026 | TBA | TBA | TBA | 
+| 10/13/2026 | Break | None | None | 
+| 10/20/2026 | Soyheon Jung | TBA | TBA | 
+| 10/27/2026 | TBA | TBA | TBA |
+| 11/3/2026 | Break | None | None | 
+| 11/10/2026 | Robert Scholz | TBA | TBA | 
+| 11/17/2026 | Vince Campo | TBA | TBA | 
+| 11/24/2026 | Break | None | None | 
+| 12/1/2026 | TBA | TBA | TBA | 
 
 For a list of past presentations, click [here](archive.md).
 
