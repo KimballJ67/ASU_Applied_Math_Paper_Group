@@ -16,8 +16,8 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 9/1/2026 | Kimball Johnston | [A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem](https://search.lib.asu.edu/permalink/01ASU_INST/1da5cgk/cdi_pascalfrancis_primary_946803) | [notes](9_1_2026/benamou_brenier_notes.pdf), [additional readings](https://people.math.ethz.ch/~afigalli/lecture-notes-pdf/An-introduction-to-optimal-transport-and-Wasserstein-gradient-flows.pdf) |
 | 9/8/2026 | Ashley Harrison | [Reducing phenotype-structured partial differential equations models of cancer evolution to systems of ordinary differential equations: a generalised moment dynamics approach](https://link.springer.com/article/10.1007/s00285-025-02246-5) | [notes](9_8_2026/phenotypePDEtoODEnotes.pdf) |
 | 9/15/2026 | Break | None | None |
-| 9/22/2026 | Isiaha Akatlzin Rodriguez | [The Dynamics of Learning: A Random Matrix Approach](https://arxiv.org/abs/1805.11917) | TBA |
-| 9/29/2026 | William Meade | [Combination therapy with oncolytic virus and T cells or mRNA vaccine amplifies antitumor effects](https://www.nature.com/articles/s41392-024-01824-1) | [further readings](https://www.sciencedirect.com/science/article/pii/S0025556425001579) | 
+| 9/22/2026 | Isiaha Akatlzin Rodriguez | [The Dynamics of Learning: A Random Matrix Approach](https://arxiv.org/abs/1805.11917) | None |
+| 9/29/2026 | William Meade | [Combination therapy with oncolytic virus and T cells or mRNA vaccine amplifies antitumor effects](https://www.nature.com/articles/s41392-024-01824-1) | [further readings](https://www.sciencedirect.com/science/article/pii/S0025556425001579), [slides](9_29_2026/2026-09-16 Research Meeting - Preliminary Presentation.html) | 
 | 10/6/2026 | TBA | TBA | TBA | 
 | 10/13/2026 | Break | None | None | 
 | 10/20/2026 | Soyheon Jung | TBA | TBA | 
