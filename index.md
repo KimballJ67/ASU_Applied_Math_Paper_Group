@@ -18,7 +18,7 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 9/15/2026 | Break | None | None |
 | 9/22/2026 | Isiaha Akatlzin Rodriguez | [The Dynamics of Learning: A Random Matrix Approach](https://arxiv.org/abs/1805.11917) | None |
 | 9/29/2026 | William Meade | [Combination therapy with oncolytic virus and T cells or mRNA vaccine amplifies antitumor effects](https://www.nature.com/articles/s41392-024-01824-1) | [further readings](https://www.sciencedirect.com/science/article/pii/S0025556425001579), [slides](9_29_2026/2026-09-16 Research Meeting - Preliminary Presentation.html) | 
-| 10/6/2026 | TBA | TBA | TBA | 
+| 10/6/2026 | Kimball Johnston | [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290) | TBA | 
 | 10/13/2026 | Break | None | None | 
 | 10/20/2026 | Soyheon Jung | TBA | TBA | 
 | 10/27/2026 | TBA | TBA | TBA |
