@@ -21,7 +21,7 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 10/6/2026 | Kimball Johnston | [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290) | TBA | 
 | 10/13/2026 | Break | None | None | 
 | 10/20/2026 | Soyheon Jung | TBA | TBA | 
-| 10/27/2026 | TBA | TBA | TBA |
+| 10/27/2026 | Jordan Dworaczyk | TBA | TBA |
 | 11/3/2026 | Break | None | None | 
 | 11/10/2026 | Robert Scholz | TBA | TBA | 
 | 11/17/2026 | Vince Campo | TBA | TBA | 
