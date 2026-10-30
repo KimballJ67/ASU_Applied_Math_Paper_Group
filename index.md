@@ -26,7 +26,7 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 11/10/2026 | Robert Scholz | [Uniqueness of entire graphs evolving by mean curvature flow](https://arxiv.org/abs/2110.12026) | TBA | 
 | 11/17/2026 | Vince Campo | TBA | TBA | 
 | 11/24/2026 | Break | None | None | 
-| 12/1/2026 | TBA | TBA | TBA | 
+| 12/1/2026 | Jack Ramina | TBA | TBA | 
 
 For a list of past presentations, click [here](archive.md).
 
