@@ -20,10 +20,10 @@ To join our mailing list, fill out the survey at <https://docs.google.com/forms/
 | 9/29/2026 | William Meade | [Combination therapy with oncolytic virus and T cells or mRNA vaccine amplifies antitumor effects](https://www.nature.com/articles/s41392-024-01824-1) | [further readings](https://www.sciencedirect.com/science/article/pii/S0025556425001579), [slides](9_29_2026/2026-09-16 Research Meeting - Preliminary Presentation.html) | 
 | 10/6/2026 | Kimball Johnston | [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290) | [notes](10_6_2026/sac_notes.pdf), [further readings](https://spinningup.openai.com/en/latest/algorithms/sac.html) | 
 | 10/13/2026 | Break | None | None | 
-| 10/20/2026 | Sohyeon Jung | [DiffusionPDE: Generative PDE-Solving Under Partial Observation](https://arxiv.org/abs/2406.17763) | TBA | 
+| 10/20/2026 | Sohyeon Jung | [DiffusionPDE: Generative PDE-Solving Under Partial Observation](https://arxiv.org/abs/2406.17763) | None | 
 | 10/27/2026 | Jordan Dworaczyk | [A GCV based method for nonlinear ill-posed problems](https://link.springer.com/article/10.1023/A:1011599530422) | TBA |
 | 11/3/2026 | Break | None | None | 
-| 11/10/2026 | Robert Scholz | TBA | TBA | 
+| 11/10/2026 | Robert Scholz | [Uniqueness of entire graphs evolving by mean curvature flow](https://arxiv.org/abs/2110.12026) | TBA | 
 | 11/17/2026 | Vince Campo | TBA | TBA | 
 | 11/24/2026 | Break | None | None | 
 | 12/1/2026 | TBA | TBA | TBA | 
